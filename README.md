@@ -1,3 +1,3 @@
 # Simple-Js-Projects
 
-This repo contains 30 different simple JS projects.
+This repo contains some of simple JS projects.
